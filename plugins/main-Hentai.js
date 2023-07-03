@@ -5,13 +5,13 @@ let handler = async m => m.reply(`
 https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S
 ─────────────
 🔊 *Github*
-https://github.com/dinuwah/QUEEN-HENTAI
+https://github.com/Ayoubvvch/QUEEN-HENTAI
  
 🔊 *Contact*
-wa.me:94740804536
+wa.me:212614389153
 
 🔊 *Instagram*
-https://instagram.com/Dinuwa Official²⁰²³
+https://instagram.com/ayoub_vv_ch?igshid=MzNlNGNkZWQ4Mg==
 
 `.trim())
 handler.help = ['gphentai']
